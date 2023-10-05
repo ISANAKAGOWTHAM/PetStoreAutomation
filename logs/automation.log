@@ -1,0 +1,32 @@
+16:23:58.830 [main] INFO  api.test.UserTests - ******************  creating user     ******************
+16:24:03.954 [main] INFO  api.test.UserTests - ******************   user is created      ******************
+16:24:04.000 [main] INFO  api.test.UserTests - ******************  get the  user info     ******************
+16:24:07.775 [main] INFO  api.test.UserTests - ******************  Sucessfully get the  user info     ******************
+16:24:07.807 [main] INFO  api.test.UserTests - ******************  update  the  user info     ******************
+16:24:12.724 [main] INFO  api.test.UserTests - ******************  Sucessfully update  the  user info     ******************
+16:24:12.748 [main] INFO  api.test.UserTests - ******************  delete  the  user info     ******************
+16:24:14.334 [main] INFO  api.test.UserTests - ******************  sucessfully delete  the  user info     ******************
+10:37:39.761 [main] INFO  api.test.UserTests2 - ******************  creating user     ******************
+10:37:45.945 [main] INFO  api.test.UserTests2 - ******************   user is created      ******************
+10:37:46.005 [main] INFO  api.test.UserTests2 - ******************  get the  user info     ******************
+10:37:47.286 [main] INFO  api.test.UserTests2 - ******************  Sucessfully get the  user info     ******************
+10:37:47.317 [main] INFO  api.test.UserTests2 - ******************  update  the  user info     ******************
+10:37:53.073 [main] INFO  api.test.UserTests2 - ******************  Sucessfully update  the  user info     ******************
+10:37:53.086 [main] INFO  api.test.UserTests2 - ******************  delete  the  user info     ******************
+10:37:54.309 [main] INFO  api.test.UserTests2 - ******************  sucessfully delete  the  user info     ******************
+11:18:59.179 [main] INFO  api.test.UserTests2 - ******************  creating user     ******************
+11:19:04.964 [main] INFO  api.test.UserTests2 - ******************   user is created      ******************
+11:19:04.991 [main] INFO  api.test.UserTests2 - ******************  get the  user info     ******************
+11:19:06.908 [main] INFO  api.test.UserTests2 - ******************  Sucessfully get the  user info     ******************
+11:19:06.922 [main] INFO  api.test.UserTests2 - ******************  update  the  user info     ******************
+11:19:10.025 [main] INFO  api.test.UserTests2 - ******************  Sucessfully update  the  user info     ******************
+11:19:10.033 [main] INFO  api.test.UserTests2 - ******************  delete  the  user info     ******************
+11:19:11.645 [main] INFO  api.test.UserTests2 - ******************  sucessfully delete  the  user info     ******************
+11:48:20.272 [main] INFO  api.test.UserTests2 - ******************  creating user     ******************
+11:48:24.822 [main] INFO  api.test.UserTests2 - ******************   user is created      ******************
+11:48:24.839 [main] INFO  api.test.UserTests2 - ******************  get the  user info     ******************
+11:48:27.124 [main] INFO  api.test.UserTests2 - ******************  Sucessfully get the  user info     ******************
+11:48:27.138 [main] INFO  api.test.UserTests2 - ******************  update  the  user info     ******************
+11:48:31.005 [main] INFO  api.test.UserTests2 - ******************  Sucessfully update  the  user info     ******************
+11:48:31.007 [main] INFO  api.test.UserTests2 - ******************  delete  the  user info     ******************
+11:48:32.283 [main] INFO  api.test.UserTests2 - ******************  sucessfully delete  the  user info     ******************
